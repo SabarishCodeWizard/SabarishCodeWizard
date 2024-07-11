@@ -15,7 +15,7 @@ Feel free to explore more about me https://sabarishcodewizard.github.io/Personal
 
 - 👯 I’m looking to collaborate on **Integrate a voice assistant into a website, leveraging my expertise in voice technology and web development to enhance user experience and functionality**
 
-- 💬 Ask me about **Artificial Intelligence** and  **Full Stack**
+- 💬 Ask me about **Artificial Intelligence** and  **FullStack**
 
 - 📫 How to reach me **ravik60656@gmail.com**
 
