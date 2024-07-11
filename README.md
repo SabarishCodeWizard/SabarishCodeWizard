@@ -21,7 +21,7 @@ Feel free to explore more about me https://sabarishcodewizard.github.io/Personal
 
 - ⚡ Fun fact **ChatGPT is currently free to use......**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: 7845081278</h3>
 <p align="left">
 </p>
 
