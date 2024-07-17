@@ -4,6 +4,8 @@ Feel free to explore more about me https://sabarishcodewizard.github.io/Personal
 
 Check out our Chrome extension for real-time e-commerce product information scraping: [DPBH Web Application](https://sabarishcodewizard.github.io/DPBH-Web-Application/)
 
+Explore the Demo of our Bannari Amman Institute of Technology Project Website [here](https://sabarishcodewizard.github.io/bitwebsite/index.html).
+
 <h1 align="center">Hi 👋, I'm Sabarish_R</h1>
 <h3 align="center">A passionate AI and FullStack developer from TamilNadu</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
