@@ -1,6 +1,6 @@
 # Sabarish_R  
 
-Feel free to explore more about me https://sabarishcodewizard.github.io/Personal_Portfolio/
+Feel free to explore more about me [Sabarish_R](https://sabarishcodewizard.github.io/Personal_Portfolio/)
 
 Check out our Chrome extension for real-time e-commerce product information scraping: [DPBH Web Application](https://sabarishcodewizard.github.io/DPBH-Web-Application/)
 
