@@ -1,10 +1,10 @@
 # Sabarish_R  
 
-Feel free to explore more about me [Sabarish_R](https://sabarishcodewizard.github.io/Personal_Portfolio/)
+Feel free to explore more about me click 👉 [Sabarish_R](https://sabarishcodewizard.github.io/Personal_Portfolio/)
 
-Check out our Chrome extension for real-time e-commerce product information scraping: [DPBH Web Application](https://sabarishcodewizard.github.io/DPBH-Web-Application/)
+Check out our Chrome extension for real-time e-commerce product information scraping click 👉 [DPBH Web Application](https://sabarishcodewizard.github.io/DPBH-Web-Application/)
 
-Explore the Demo of our Bannari Amman Institute of Technology Project Website [here](https://sabarishcodewizard.github.io/bitwebsite/index.html).
+Explore the Demo of our Bannari Amman Institute of Technology Project Website click 👉 [here](https://sabarishcodewizard.github.io/bitwebsite/index.html).
 
 <h1 align="center">Hi 👋, I'm Sabarish_R</h1>
 <h3 align="center">A passionate AI and FullStack developer from TamilNadu</h3>
