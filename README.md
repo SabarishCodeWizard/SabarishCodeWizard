@@ -8,7 +8,7 @@ Check out our Chrome extension for real-time e-commerce product information clic
 Explore the Demo of our Bannari Amman Institute of Technology Project Website click 👉 [here](https://sabarishcodewizard.github.io/bitwebsite/index.html).
 
 <h1 align="center">Hi 👋, I'm Sabarish_R</h1>
-<h3 align="center">A passionate AI and FullStack developer from TamilNadu</h3>
+<h3 align="center">A passionate AI FullStack developer from TamilNadu</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabarishcodewizard&label=Profile%20views&color=0e75b6&style=flat" alt="sabarishcodewizard" /> </p>
 
