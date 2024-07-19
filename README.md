@@ -14,7 +14,7 @@ Explore the Demo of our Bannari Amman Institute of Technology Project Website cl
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Bannari Amman Institute Of Technology**
+- 🔭 I’m currently studing at **Bannari Amman Institute Of Technology**
 
 - 🌱 I’m currently learning **Fullstack and AI**
 
