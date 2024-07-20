@@ -7,6 +7,8 @@ Check out our Chrome extension for real-time e-commerce product information clic
 
 Explore the Demo of our Bannari Amman Institute of Technology Project Website click 👉 [here](https://sabarishcodewizard.github.io/bitwebsite/index.html).
 
+The application at [https://tamiltranslator.pythonanywhere.com/](https://tamiltranslator.pythonanywhere.com/) offers a multilingual translation service with speech-to-text, translation history, and voice selection features.
+
 <h1 align="center">Hi 👋, I'm Sabarish_R</h1>
 <h3 align="center">A passionate AI FullStack developer from TamilNadu</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
