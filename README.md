@@ -7,6 +7,8 @@ Check out our Chrome extension for real-time e-commerce product information clic
 
 Explore the Demo of our Bannari Amman Institute of Technology Project Website click 👉 [here](https://sabarishcodewizard.github.io/bitwebsite/index.html).
 
+Check out my Tamil Translator!  🌐 Explore it [here](https://tamiltranslator.pythonanywhere.com/).
+
 
 
 <h1 align="center">Hi 👋, I'm Sabarish_R</h1>
