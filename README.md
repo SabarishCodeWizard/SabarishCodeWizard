@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Sabarish_R</h1>
-<h3 align="center">A passionate AI FullStack developer from TamilNadu</h3>
+<h3 align="center"><I>A passionate AI FullStack developer from TamilNadu</I></h3>
 <br>
 <br>
 
