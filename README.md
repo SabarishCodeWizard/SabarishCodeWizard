@@ -2,8 +2,9 @@
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
 
+<h1 align="center">Hi 👋, I'm Sabarish_R</h1>
+<h3 align="center">A passionate AI FullStack developer from TamilNadu</h3>
 
-# Sabarish_R  
 
 Feel free to explore more about me click 👉 [Sabarish_R](https://sabarishcodewizard.github.io/Personal_Portfolio/)
 
@@ -16,8 +17,7 @@ Check out my Tamil Translator!  🌐 Explore it [here](https://tamiltranslator.p
 
 
 
-<h1 align="center">Hi 👋, I'm Sabarish_R</h1>
-<h3 align="center">A passionate AI FullStack developer from TamilNadu</h3>
+
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabarishcodewizard&label=Profile%20views&color=0e75b6&style=flat" alt="sabarishcodewizard" /> </p>
 
@@ -35,7 +35,7 @@ Check out my Tamil Translator!  🌐 Explore it [here](https://tamiltranslator.p
 
 - ⚡ Fun fact **ChatGPT is currently free to use......**
 
-<h3 align="left">Connect with me: 7845081278</h3>
+
 <p align="left">
 </p>
 
