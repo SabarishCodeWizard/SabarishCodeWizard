@@ -13,7 +13,7 @@ Check out my Tamil Translator!  🌐 Explore it [here](https://tamiltranslator.p
 
 <h1 align="center">Hi 👋, I'm Sabarish_R</h1>
 <h3 align="center">A passionate AI FullStack developer from TamilNadu</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabarishcodewizard&label=Profile%20views&color=0e75b6&style=flat" alt="sabarishcodewizard" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
