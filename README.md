@@ -52,6 +52,10 @@ Check out my Tamil Translator!  🌐 Explore it [here](https://tamiltranslator.p
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/ravik60656)](https://leetcode.com/ravik60656?ext=heatmap)
 
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=SabarishCodeWizard&theme=default&no-frame=false&no-bg=false&margin-w=4)
+
 ## Connect with me:
 <p align="left">
 
