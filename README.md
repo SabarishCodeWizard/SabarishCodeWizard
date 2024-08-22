@@ -12,7 +12,7 @@ Feel free to explore more about me click 👉 [Sabarish_R](https://sabarishcodew
 Check out our Chrome extension for real-time e-commerce product information click 👉 [DPBH Web Application](https://sabarishcodewizard.github.io/DPBH-Web-Application/) click 👉 [You Tube](https://youtu.be/3X69VkNuC_8?si=QpKvAdOAtILiIn3N)
 
 
-Explore the Demo of our Bannari Amman Institute of Technology Project Website click 👉 [here](https://sabarishcodewizard.github.io/bitwebsite/index.html).
+Explore the Demo of our Bannari Amman Institute of Technology Project Website click 👉 [here](https://sabarishcodewizard.github.io/Bannari-Amman-College-Website-Replicate/).
 
 Check out my Tamil Translator!  🌐 Explore it [here](https://tamiltranslator.pythonanywhere.com/).
 
