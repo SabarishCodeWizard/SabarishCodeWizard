@@ -14,7 +14,7 @@ Check out our Chrome extension for real-time e-commerce product information clic
 
 Explore the Demo of our Bannari Amman Institute of Technology Project Website click 👉 [here](https://sabarishcodewizard.github.io/Bannari-Amman-College-Website-Replicate/).
 
-Check out my Tamil Translator!  🌐 Explore it [here](https://tamiltranslator.pythonanywhere.com/).
+Check out my Tamil Translator!  🌐 Explore it [here](https://bittranslator.pythonanywhere.com/).
 
 [Sabarish_R](https://sabarishcodewizard.github.io/Personal_Portfolio/)
 
