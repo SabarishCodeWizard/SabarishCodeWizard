@@ -58,6 +58,11 @@ Check out my Tamil Translator!  🌐 Explore it [here](https://bittranslator.pyt
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SabarishCodeWizard&theme=default&no-frame=false&no-bg=false&margin-w=4)
 
+### 📈 Day by Day Contribution
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SabarishCodeWizard&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
 ## Connect with me:
 <p align="left">
 
