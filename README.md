@@ -21,7 +21,7 @@ Check out my BIT-TooLs !  🌐 Explore it click 👉  [here](https://bittranslat
 [Sabarish_R](https://sabarishcodewizard.github.io/Personal_Portfolio/)
 
 
-
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabarishcodewizard&label=Profile%20views&color=0e75b6&style=flat" alt="sabarishcodewizard" /> </p>
