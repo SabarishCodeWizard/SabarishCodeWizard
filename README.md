@@ -32,11 +32,7 @@ Check out my BIT-TooLs !  🌐 Explore it [here](https://bittranslator.pythonany
 
 - 👯 I’m looking to collaborate on **Integrate a voice assistant into a website, leveraging my expertise in voice technology and web development to enhance user experience and functionality**
 
-- 💬 Ask me about **Artificial Intelligence** and  **FullStack**
-
 - 📫 How to reach me **ravik60656@gmail.com**
-
-- ⚡ Fun fact **ChatGPT is currently free to use......**
 
 
 <p align="left">
