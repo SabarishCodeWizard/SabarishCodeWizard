@@ -12,7 +12,9 @@ Feel free to explore more about me click 👉 [Sabarish_R](https://sabarishr.ver
 Check out our Chrome extension for real-time e-commerce product information click 👉 [DPBH Web Application](https://sabarishcodewizard.github.io/DPBH-Web-Application/) click 👉 [You Tube](https://youtu.be/3X69VkNuC_8?si=QpKvAdOAtILiIn3N)
 
 
-Explore the Demo of our Bannari Amman Institute of Technology Project Website click 👉 [here](https://sabarishcodewizard.github.io/Bannari-Amman-College-Website-Replicate/).
+Explore the Demo of  Bannari Amman Institute of Technology Project Website click 👉 [here](https://sabarishcodewizard.github.io/Bannari-Amman-College-Website-Replicate/).
+
+The E-commerce application is hosted at [https://fixitecommerce.vercel.app/](https://fixitecommerce.vercel.app/).
 
 Check out my BIT-TooLs !  🌐 Explore it [here](https://bittranslator.pythonanywhere.com/).
 
