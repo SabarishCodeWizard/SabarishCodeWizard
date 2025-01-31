@@ -35,7 +35,8 @@ Check out my BIT-TooLs !  🌐 Explore it click 👉  [here](https://bittranslat
 - 👯 I’m looking to collaborate on **Integrate a voice assistant into a website, leveraging my expertise in voice technology and web development to enhance user experience and functionality**
 
 - 📫 How to reach me **ravik60656@gmail.com**
-
+<br>
+<br>
 
 <p align="left">
 </p>
@@ -48,9 +49,7 @@ Check out my BIT-TooLs !  🌐 Explore it click 👉  [here](https://bittranslat
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sabarishcodewizard&show_icons=true&locale=en&theme=chartreuse-dark" alt="sabarishcodewizard" /></p>
 <br>
-<br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sabarishcodewizard&theme=chartreuse-dark" alt="sabarishcodewizard" /></p>
-<br>
 <br>
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/ravik60656)](https://leetcode.com/ravik60656?ext=heatmap)
