@@ -6,7 +6,7 @@
 <h3 align="center"><I>A passionate developer from TamilNadu</I></h3>
 <br>
 <br>
-
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif">
 Feel free to explore more about me click 👉 [Sabarish_R](https://sabarishr.vercel.app/) 
 
 Check out our Chrome extension for real-time e-commerce product information click 👉 [DPBH Web Application](https://sabarishcodewizard.github.io/DPBH-Web-Application/) click 👉 [You Tube](https://youtu.be/3X69VkNuC_8?si=QpKvAdOAtILiIn3N)
