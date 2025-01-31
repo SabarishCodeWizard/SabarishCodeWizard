@@ -40,7 +40,8 @@ Check out my BIT-TooLs !  🌐 Explore it click 👉  [here](https://bittranslat
 <p align="left">
 </p>
 
-
+<br>
+<br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sabarishcodewizard&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="sabarishcodewizard" /></p>
 <br>
@@ -49,7 +50,8 @@ Check out my BIT-TooLs !  🌐 Explore it click 👉  [here](https://bittranslat
 <br>
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sabarishcodewizard&theme=chartreuse-dark" alt="sabarishcodewizard" /></p>
-
+<br>
+<br>
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/ravik60656)](https://leetcode.com/ravik60656?ext=heatmap)
 
