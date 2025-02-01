@@ -49,10 +49,9 @@ Check out my BIT-TooLs !  🌐 Explore it click 👉  [here](https://bittranslat
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sabarishcodewizard&show_icons=true&locale=en&theme=chartreuse-dark" alt="sabarishcodewizard" /></p>
 <br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sabarishcodewizard&theme=chartreuse-dark" alt="sabarishcodewizard" /></p>
 <br>
 
-
+[![Leetcode Stats](https://leetcard.jacoblin.cool/ravik60656)](https://leetcode.com/ravik60656?ext=heatmap)
 
 
 ## 🏆 GitHub Trophies
