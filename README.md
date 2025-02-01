@@ -36,6 +36,9 @@ Check out my BIT-TooLs !  🌐 Explore it click 👉  [here](https://bittranslat
 
 - 📫 How to reach me **ravik60656@gmail.com**
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=SabarishCodeWizard&theme=default&no-frame=false&no-bg=false&margin-w=4)
+
 
 <p align="left">
 </p>
@@ -48,8 +51,6 @@ Check out my BIT-TooLs !  🌐 Explore it click 👉  [here](https://bittranslat
 [![Leetcode Stats](https://leetcard.jacoblin.cool/ravik60656)](https://leetcode.com/ravik60656?ext=heatmap)
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SabarishCodeWizard&theme=default&no-frame=false&no-bg=false&margin-w=4)
 
 ### 📈 Day by Day Contribution
 <div align="center">
