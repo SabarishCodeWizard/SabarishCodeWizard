@@ -42,9 +42,16 @@ How to reach me **ravik60656@gmail.com**
 <p align="left">
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sabarishcodewizard&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="sabarishcodewizard" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sabarishcodewizard&show_icons=true&locale=en&theme=chartreuse-dark" alt="sabarishcodewizard" /></p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sabarishcodewizard&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Top Languages" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=sabarishcodewizard&show_icons=true&locale=en&theme=chartreuse-dark" alt="GitHub Stats" />
+    </td>
+  </tr>
+</table>
 
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/ravik60656)](https://leetcode.com/ravik60656?ext=heatmap)
