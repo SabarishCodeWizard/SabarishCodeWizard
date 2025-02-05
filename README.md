@@ -36,9 +36,9 @@ Check out my BIT-TooLs !  🌐 Explore it click 👉  [here](https://bittranslat
 
 - 📫 How to reach me **ravik60656@gmail.com**
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
-![](https://github-profile-trophy.vercel.app/?username=SabarishCodeWizard&theme=default&no-frame=false&no-bg=false&margin-w=4)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SabarishCodeWizard&theme=algolia&no-frame=true&no-bg=true&margin-w=10)
 
 <p align="left">
 </p>
