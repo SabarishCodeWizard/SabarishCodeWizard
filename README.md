@@ -18,23 +18,26 @@ Visit my e-commerce application is hosted at click 👉 [here](https://fixitecom
 
 Check out my BIT-TooLs !  🌐 Explore it click 👉  [here](https://bittranslator.pythonanywhere.com/).
 
+ 🔭 I’m currently studing at **Bannari Amman Institute Of Technology**
+  
+📫 How to reach me **ravik60656@gmail.com**
+
 [Sabarish_R](https://sabarishcodewizard.github.io/Personal_Portfolio/)
 
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabarishcodewizard&label=Profile%20views&color=0e75b6&style=flat" alt="sabarishcodewizard" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently studing at **Bannari Amman Institute Of Technology**
+
 
 - 🌱 I’m currently learning **Fullstack and AI**
 
 - 👯 I’m looking to collaborate on **Integrate a voice assistant into a website, leveraging my expertise in voice technology and web development to enhance user experience and functionality**
 
-- 📫 How to reach me **ravik60656@gmail.com**
+
 
 ### 📈 Day by Day Contribution
 <div align="center">
