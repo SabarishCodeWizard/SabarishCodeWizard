@@ -16,9 +16,9 @@ Check out our Chrome extension for real-time e-commerce product information clic
 
 Explore the Demo of  Bannari Amman Institute of Technology Project Website click 👉 [here](https://sabarishcodewizard.github.io/Bannari-Amman-College-Website-Replicate/).
 
-Visit my e-commerce application is hosted at click 👉 [here](https://fixitecommerce.vercel.app/).
+Visit my e-commerce application is hosted at click 👉 [https://fixitecommerce.vercel.app/](https://fixitecommerce.vercel.app/).
 
-Check out my BIT-TooLs !  🌐 Explore it click 👉  [here](https://bittranslator.pythonanywhere.com/).
+Check out my BIT-TooLs !  🌐 Explore it click 👉  [https://bittranslator.pythonanywhere.com/](https://bittranslator.pythonanywhere.com/).
 
 
 
