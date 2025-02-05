@@ -7,6 +7,8 @@
 <br>
 <br>
 
+I’m currently studing at **Bannari Amman Institute Of Technology**
+
 Feel free to explore more about me click 👉 [Sabarish_R](https://sabarishr.vercel.app/) 
 
 Check out our Chrome extension for real-time e-commerce product information click 👉 [DPBH Web Application](https://sabarishcodewizard.github.io/DPBH-Web-Application/) click 👉 [You Tube](https://youtu.be/3X69VkNuC_8?si=QpKvAdOAtILiIn3N)
@@ -18,7 +20,7 @@ Visit my e-commerce application is hosted at click 👉 [here](https://fixitecom
 
 Check out my BIT-TooLs !  🌐 Explore it click 👉  [here](https://bittranslator.pythonanywhere.com/).
 
-I’m currently studing at **Bannari Amman Institute Of Technology**
+
 
 How to reach me **ravik60656@gmail.com**
 
