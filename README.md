@@ -38,7 +38,8 @@ Check out my BIT-TooLs !  🌐 Explore it click 👉  [here](https://bittranslat
 
 ## 🏆 GitHub Achievements
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SabarishCodeWizard&theme=algolia&no-frame=true&no-bg=true&margin-w=8)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SabarishCodeWizard&theme=algolia&no-frame=true&no-bg=true&margin-w=10&column=5)
+
 
 <p align="left">
 </p>
