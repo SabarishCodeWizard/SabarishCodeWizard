@@ -18,9 +18,9 @@ Visit my e-commerce application is hosted at click 👉 [here](https://fixitecom
 
 Check out my BIT-TooLs !  🌐 Explore it click 👉  [here](https://bittranslator.pythonanywhere.com/).
 
- 🔭 I’m currently studing at **Bannari Amman Institute Of Technology**
-  
-📫 How to reach me **ravik60656@gmail.com**
+I’m currently studing at **Bannari Amman Institute Of Technology**
+
+How to reach me **ravik60656@gmail.com**
 
 [Sabarish_R](https://sabarishcodewizard.github.io/Personal_Portfolio/)
 
@@ -32,20 +32,10 @@ Check out my BIT-TooLs !  🌐 Explore it click 👉  [here](https://bittranslat
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 
-
-- 🌱 I’m currently learning **Fullstack and AI**
-
-- 👯 I’m looking to collaborate on **Integrate a voice assistant into a website, leveraging my expertise in voice technology and web development to enhance user experience and functionality**
-
-
-
 ### 📈 Day by Day Contribution
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SabarishCodeWizard&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
-
-
-
 
 <p align="left">
 </p>
@@ -62,7 +52,6 @@ Check out my BIT-TooLs !  🌐 Explore it click 👉  [here](https://bittranslat
 <br>
 
 ![](https://github-profile-trophy.vercel.app/?username=SabarishCodeWizard&theme=algolia&no-frame=true&no-bg=true&margin-w=10&column=9)
-
 
 
 ## Connect with me:
