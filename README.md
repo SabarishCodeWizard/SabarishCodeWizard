@@ -38,7 +38,7 @@ Check out my BIT-TooLs !  🌐 Explore it click 👉  [here](https://bittranslat
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SabarishCodeWizard&theme=default&no-frame=false&no-bg=false&margin-w=4)
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=naveenkumar-42&label=Profile%20views&color=0e75b6&style=flat" alt="naveenkumar-42" /> </p>
 
 <p align="left">
 </p>
