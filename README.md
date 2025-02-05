@@ -37,10 +37,8 @@ Check out my BIT-TooLs !  🌐 Explore it click 👉  [here](https://bittranslat
 - 📫 How to reach me **ravik60656@gmail.com**
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SabarishCodeWizard&theme=default&no-frame=false&no-bg=false&margin-w=4)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=naveenkumar-42&label=Profile%20views&color=0e75b6&style=flat" alt="naveenkumar-42" /> </p>
 
-<p align="left">
+<p align="left">![](https://github-profile-trophy.vercel.app/?username=SabarishCodeWizard&theme=default&no-frame=false&no-bg=false&margin-w=4)
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sabarishcodewizard&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="sabarishcodewizard" /></p>
