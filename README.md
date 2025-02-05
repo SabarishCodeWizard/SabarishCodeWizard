@@ -36,14 +36,10 @@ Check out my BIT-TooLs !  🌐 Explore it click 👉  [here](https://bittranslat
 
 - 📫 How to reach me **ravik60656@gmail.com**
 
-
-<br>
-<br>
-## 🏆 GitHub Trophies
-<br>
-<br>
-
-![](https://github-profile-trophy.vercel.app/?username=SabarishCodeWizard&theme=algolia&no-frame=true&no-bg=true&margin-w=10&column=9)
+### 📈 Day by Day Contribution
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SabarishCodeWizard&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
 
 
 
@@ -58,12 +54,13 @@ Check out my BIT-TooLs !  🌐 Explore it click 👉  [here](https://bittranslat
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/ravik60656)](https://leetcode.com/ravik60656?ext=heatmap)
 
+## 🏆 GitHub Trophies
+<br>
+<br>
+
+![](https://github-profile-trophy.vercel.app/?username=SabarishCodeWizard&theme=algolia&no-frame=true&no-bg=true&margin-w=10&column=9)
 
 
-### 📈 Day by Day Contribution
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SabarishCodeWizard&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
 
 ## Connect with me:
 <p align="left">
