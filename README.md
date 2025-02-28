@@ -2,11 +2,14 @@
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
 <div align="center">
-
+  <br>
+  
 <h1>Hi 👋, I'm Sabarish_R</h1>
 <h3><i>A passionate developer from TamilNadu</i></h3>
 <br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sabarishcodewizard&label=Profile%20views&color=0e75b6&style=flat" alt="sabarishcodewizard" /> </p>
 
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <table width="50%">
   <tr>
     <td align="left">
@@ -43,13 +46,6 @@
 
 
 <br>
-
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sabarishcodewizard&label=Profile%20views&color=0e75b6&style=flat" alt="sabarishcodewizard" /> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 
 ### 📈 Day by Day Contribution
 <div align="center">
