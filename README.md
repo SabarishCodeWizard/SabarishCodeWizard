@@ -2,7 +2,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
 <div align="center">
-  <br>
+ 
   
 <h1>Hi 👋, I'm Sabarish_R</h1>
 <h3><i>A passionate developer from TamilNadu</i></h3>
