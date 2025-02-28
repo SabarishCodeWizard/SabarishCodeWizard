@@ -4,8 +4,11 @@
 <div align="center">
  
   
-<h1>Hi 👋, I'm Sabarish_R</h1>
-<h3><i>A passionate developer from TamilNadu</i></h3>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=100&color=FFA500&center=true&vCenter=true&width=450&lines=Hi+👋,+I'm+Sabarish_R;A+passionate+developer+from+TamilNadu" alt="Typing SVG" />
+</h1>
+
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabarishcodewizard&label=Profile%20views&color=0e75b6&style=flat" alt="sabarishcodewizard" /> </p>
 
@@ -32,8 +35,7 @@
 🔗 **Check out my BIT-TooLs 🌐 Explore it** 👉 [BIT-TooLs](https://bittranslator.pythonanywhere.com/)  
 <br>
 
-📧 **How to reach me:**  
-📩 **ravik60656@gmail.com**  
+📧 **How to reach me:**  📩 **ravik60656@gmail.com**  
 <br>
 
 🌍 **Visit my Portfolio:** 🔗 [Sabarish_R](https://sabarishcodewizard.github.io/Personal_Portfolio/)  
