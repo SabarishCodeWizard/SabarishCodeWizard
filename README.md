@@ -36,7 +36,7 @@
 <br>
 
 
-🔗 **Explore the College Event Management System** 👉 [Click here to visit](https://bitsathyevents.vercel.app/)  
+🔗 **Explore the College Event Management System** 👉 [eventManagement](https://bitsathyevents.vercel.app/)  
 <br>
 
 📧 **How to reach me:**  📩 **ravik60656@gmail.com**  
