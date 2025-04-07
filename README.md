@@ -26,18 +26,26 @@
 🔗 **Check out our Chrome extension for real-time e-commerce product information** 👉 [DPBH Web Application](https://sabarishcodewizard.github.io/DPBH-Web-Application/) | 📺 [YouTube](https://youtu.be/3X69VkNuC_8?si=QpKvAdOAtILiIn3N)  
 <br>
 
+🔗 **Check out my BIT-TooLs 🌐 Explore it** 👉 [BIT-TooLs](https://bittranslator.pythonanywhere.com/)  
+<br>
+
 🔗 **Explore the Demo of Bannari Amman Institute of Technology Project Website** 👉 [Click Here](https://sabarishcodewizard.github.io/Bannari-Amman-College-Website-Replicate/)  
 <br>
 
-🔗 **Visit my e-commerce application** 👉 [FixIt E-Commerce](https://fixitecommerce.vercel.app/)  
-<br>
-
-🔗 **Check out my BIT-TooLs 🌐 Explore it** 👉 [BIT-TooLs](https://bittranslator.pythonanywhere.com/)  
-<br>
 
 
 🔗 **Explore the College Event Management System** 👉 [eventManagement](https://bitsathyevents.vercel.app/)  
 <br>
+
+
+🔗 **Check out my Weather-App 🌐 Explore it** 👉 [weatherApp](https://bitweather-rz0n.onrender.com)  
+
+🔗 **Visit my e-commerce application** 👉 [FixIt E-Commerce](https://fixitecommerce.vercel.app/)  
+<br>
+
+
+
+
 
 📧 **How to reach me:**  📩 **ravik60656@gmail.com**  
 <br>
