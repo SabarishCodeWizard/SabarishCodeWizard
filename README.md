@@ -29,8 +29,6 @@
 🔗 **Check out my BIT-TooLs 🌐 Explore it** 👉 [BIT-TooLs](https://bittranslator.pythonanywhere.com/)  
 <br>
 
-🔗 **Explore the Demo of Bannari Amman Institute of Technology Project Website** 👉 [Click Here](https://sabarishcodewizard.github.io/Bannari-Amman-College-Website-Replicate/)  
-<br>
 
 
 
@@ -39,6 +37,11 @@
 
 
 🔗 **Check out my Weather-App 🌐 Explore it** 👉 [weatherApp](https://bitweather-rz0n.onrender.com)  
+<br>
+
+🔗 **Explore the Demo of Bannari Amman Institute of Technology Project Website** 👉 [Click Here](https://sabarishcodewizard.github.io/Bannari-Amman-College-Website-Replicate/)  
+<br>
+
 
 🔗 **Visit my e-commerce application** 👉 [FixIt E-Commerce](https://fixitecommerce.vercel.app/)  
 <br>
