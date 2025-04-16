@@ -26,24 +26,30 @@
 🔗 **Check out our Chrome extension for real-time e-commerce product information** 👉 [DPBH Web Application](https://sabarishcodewizard.github.io/DPBH-Web-Application/) | 📺 [YouTube](https://youtu.be/3X69VkNuC_8?si=QpKvAdOAtILiIn3N)  
 <br>
 
-🔗 **Check out my BIT-TooLs 🌐 Explore it** 👉 [BIT-TooLs](https://bittranslator.pythonanywhere.com/)  
+### **✨ Check out BIT-TooLs**  
+ 🚀 **Hosted on [PythonAnywhere](https://pythonanywhere.com/)**  🌐 **Live Demo :** [BIT-TooLs](https://bittranslator.pythonanywhere.com/)  
 <br>
 
 
 
 
-🔗 **Explore the College Event Management System** 👉 [eventManagement](https://bitsathyevents.vercel.app/)  
+### **✨ Explore the College Event Management System**  
+🚀 **Hosted on [Vercel](https://vercel.com/)** 🌐 **Live Demo :** [Event Management Portal](https://bitsathyevents.vercel.app/)    
+
 <br>
 
 
-🔗 **Check out my Weather-App 🌐 Explore it** 👉 [weatherApp](https://bitweather-rz0n.onrender.com)  
+### **✨ Check out my Weather App**  
+🚀 **Hosted on** [Render](https://render.com)  🌐 **Live Demo :** [Weather App](https://bitweather-rz0n.onrender.com)  
 <br>
 
-🔗 **Explore the Demo of Bannari Amman Institute of Technology Project Website** 👉 [Click Here](https://sabarishcodewizard.github.io/Bannari-Amman-College-Website-Replicate/)  
+### ✨ **Bannari Amman Institute of Technology - Project Website Demo**  
+🚀 **Hosted on:** [GitHub Pages](https://pages.github.com)  🌐 **Live Preview :** [Explore Now](https://sabarishcodewizard.github.io/Bannari-Amman-College-Website-Replicate/)  
 <br>
 
 
-🔗 **Visit my e-commerce application** 👉 [FixIt E-Commerce](https://fixitecommerce.vercel.app/)  
+### 🛒 **FixIt - Modern E-Commerce Solution**  
+🚀 **Hosted on** [Vercel](https://vercel.com) ⚡ **Live Store:** [FixIt E-Commerce](https://fixitecommerce.vercel.app/)  
 <br>
 
 
