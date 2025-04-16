@@ -23,40 +23,21 @@
 🔗 **Feel free to explore more about me** 👉 [Sabarish_R](https://sabarishr.vercel.app/)  
 <br>
 
-🔗 **Check out our Chrome extension for real-time e-commerce product information** 👉 [DPBH Web Application](https://sabarishcodewizard.github.io/DPBH-Web-Application/) | 📺 [YouTube](https://youtu.be/3X69VkNuC_8?si=QpKvAdOAtILiIn3N)  
-<br>
+## 🚀 My Projects
 
-### **✨ Check out BIT-TooLs**  
- 🚀 **Hosted on [PythonAnywhere](https://pythonanywhere.com/)**  🌐 **Live Demo :** [BIT-TooLs](https://bittranslator.pythonanywhere.com/)  
-<br>
-
-
-
-
-### **✨ Explore the College Event Management System**  
-🚀 **Hosted on [Vercel](https://vercel.com/)** 🌐 **Live Demo :** [Event Management Portal](https://bitsathyevents.vercel.app/)    
+| Project | Description | Live Demo | Hosted On |
+|---------|------------|-----------|-----------|
+| **⚙️ BIT-TooLs** | Utility tools for BIT students | [🌐 Try It Out](https://bittranslator.pythonanywhere.com/) | [PythonAnywhere](https://pythonanywhere.com/) |
+| **✨ College Event Management** | College event management system | [🌐 Try It Out](https://bitsathyevents.vercel.app/) | [Vercel](https://vercel.com/) |
+| **☁️ Weather App** | Real-time weather application | [🌐 Try It Out](https://bitweather-rz0n.onrender.com) | [Render](https://render.com) |
+| **🏫 BIT Website Demo** | College website replication | [🌐 Try It Out](https://sabarishcodewizard.github.io/Bannari-Amman-College-Website-Replicate/) | [GitHub Pages](https://pages.github.com) |
+| **🛒 FixIt E-Commerce** | Modern E-Commerce Storefront | [⚡ Live Store](https://fixitecommerce.vercel.app/) | [Vercel](https://vercel.com) |
+| **🛍️ DPBH Chrome Extension** | Real-time e-commerce product analyzer | [📺 Demo Video](https://youtu.be/3X69VkNuC_8?si=QpKvAdOAtILiIn3N) | - |
 
 <br>
-
-
-### **✨ Check out my Weather App**  
-🚀 **Hosted on** [Render](https://render.com)  🌐 **Live Demo :** [Weather App](https://bitweather-rz0n.onrender.com)  
-<br>
-
-### ✨ **Bannari Amman Institute of Technology - Project Website Demo**  
-🚀 **Hosted on:** [GitHub Pages](https://pages.github.com)  🌐 **Live Preview :** [Explore Now](https://sabarishcodewizard.github.io/Bannari-Amman-College-Website-Replicate/)  
-<br>
-
-
-### 🛒 **FixIt - Modern E-Commerce Solution**  
-🚀 **Hosted on** [Vercel](https://vercel.com) ⚡ **Live Store:** [FixIt E-Commerce](https://fixitecommerce.vercel.app/)  
-<br>
-
-
-
-
 
 📧 **How to reach me:**  📩 **ravik60656@gmail.com**  
+
 <br>
 
 🌍 **Visit my Portfolio:** 🔗 [Sabarish_R](https://sabarishcodewizard.github.io/Personal_Portfolio/)  
