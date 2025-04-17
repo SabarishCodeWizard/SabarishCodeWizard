@@ -29,9 +29,9 @@
 | **☁️ Weather App** | Real-time weather application | [🌐 Try It Out](https://bitweather-rz0n.onrender.com) | [Render](https://render.com) |
 | **🏫 BIT Website Demo** | College website replication | [🌐 Try It Out](https://sabarishcodewizard.github.io/Bannari-Amman-College-Website-Replicate/) | [GitHub Pages](https://pages.github.com) |
 | **🛒 FixIt E-Commerce** | Modern E-Commerce Storefront | [⚡ Live Store](https://fixitecommerce.vercel.app/) | [Vercel](https://vercel.com) |
-| **🛍️ DPBH Chrome Extension** | Real-time e-commerce product analyzer | [📺 Demo Video](https://youtu.be/3X69VkNuC_8?si=QpKvAdOAtILiIn3N) | - |
-| **🏫 BIT Monitoring System** | Facial recognition for BIT student attendance. | [📺 Demo Video](https://drive.google.com/file/d/19DtCOCDNhFMn8IpXLP6hMghvy6_xHZnQ/view) | - |
-| **🚙 Car Game with Hand Tracking** | MediaPipe for hand tracking. | [📺 Demo Video](https://drive.google.com/file/d/19DtCOCDNhFMn8IpXLP6hMghvy6_xHZnQ/view) | - |
+| **🛍️ DPBH Chrome Extension** | Real-time e-commerce product analyzer | [📺 Demo Video](https://youtu.be/3X69VkNuC_8?si=QpKvAdOAtILiIn3N) | Comming Soon |
+| **🏫 BIT Monitoring System** | Facial recognition for BIT student attendance. | [📺 Demo Video](https://drive.google.com/file/d/19DtCOCDNhFMn8IpXLP6hMghvy6_xHZnQ/view) | Comming Soon |
+| **🚙 Car Game with Hand Tracking** | MediaPipe for hand tracking. | [📺 Demo Video](https://drive.google.com/file/d/19DtCOCDNhFMn8IpXLP6hMghvy6_xHZnQ/view) | Comming Soon |
 
 <br>
 
