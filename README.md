@@ -33,6 +33,7 @@
 | **🏫 BIT Website Demo** | College website replication | [🌐 Try It Out](https://sabarishcodewizard.github.io/Bannari-Amman-College-Website-Replicate/) | [GitHub Pages](https://pages.github.com) |
 | **🛒 FixIt E-Commerce** | Modern E-Commerce Storefront | [⚡ Live Store](https://fixitecommerce.vercel.app/) | [Vercel](https://vercel.com) |
 | **🛍️ DPBH Chrome Extension** | Real-time e-commerce product analyzer | [📺 Demo Video](https://youtu.be/3X69VkNuC_8?si=QpKvAdOAtILiIn3N) | - |
+| **🏫 BIT Monitoring System** | It utilizes OpenCV for face detection | [📺 Demo Video](https://drive.google.com/file/d/19DtCOCDNhFMn8IpXLP6hMghvy6_xHZnQ/view) | - |
 
 <br>
 
