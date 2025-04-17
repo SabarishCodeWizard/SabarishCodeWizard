@@ -66,30 +66,26 @@
 
 <br>
 
-### 📈 Day by Day Contribution
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SabarishCodeWizard&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
+## 📊 GitHub Analytics
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SabarishCodeWizard&theme=react&area=true&hide_border=true" width="90%" alt="Activity Graph">
+</div>
 
 <table width="100%">
   <tr>
-    <td align="left" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sabarishcodewizard&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Top Languages" width="400" height="300"/>
+    <td width="33.3%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=sabarishcodewizard&show_icons=true&theme=radical&hide_border=true" width="100%" alt="GitHub Stats">
     </td>
-    <td align="right" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=sabarishcodewizard&show_icons=true&locale=en&theme=chartreuse-dark" alt="GitHub Stats" width="500" height="300"/>
+    <td width="33.3%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sabarishcodewizard&layout=compact&theme=radical&hide_border=true" width="100%" alt="Top Languages">
+    </td>
+    <td width="33.3%" align="center">
+      <img src="https://leetcard.jacoblin.cool/ravik60656?theme=dark&font=Karma&hide_border=true" width="100%" alt="LeetCode Stats">
     </td>
   </tr>
 </table>
 
-
-
-<p align="center">
-  <a href="https://leetcode.com/ravik60656?ext=heatmap">
-    <img src="https://leetcard.jacoblin.cool/ravik60656" alt="LeetCode Stats">
-  </a>
-</p>
 
 
 
@@ -100,13 +96,22 @@
 ![](https://github-profile-trophy.vercel.app/?username=SabarishCodeWizard&theme=algolia&no-frame=true&no-bg=true&margin-w=10&column=9)
 
 
-## Connect with me:
-<div align="left">
 
-<a href = "https://www.linkedin.com/in/sabarish777"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/r_sabarish_k/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+## 💬 Let's Connect
 
+<div align="center" style="display: flex; justify-content: center; gap: 25px; flex-wrap: wrap;">
+
+<a href="https://www.linkedin.com/in/sabarish777" target="_blank">
+  <img src="https://img.icons8.com/color/48/000000/linkedin.png" style="background: white; border-radius: 50%; padding: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); width: 48px; height: 48px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.15)'" onmouseout="this.style.transform='scale(1)'"/>
+</a>
+
+<a href="https://www.instagram.com/r_sabarish_k/" target="_blank">
+  <img src="https://img.icons8.com/color/48/000000/instagram-new.png" style="background: white; border-radius: 50%; padding: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); width: 48px; height: 48px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.15)'" onmouseout="this.style.transform='scale(1)'"/>
+</a>
+
+<a href="mailto:your.email@example.com" target="_blank">
+  <img src="https://img.icons8.com/color/48/000000/gmail.png" style="background: white; border-radius: 50%; padding: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); width: 48px; height: 48px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.15)'" onmouseout="this.style.transform='scale(1)'"/>
+</a>
 
 </div>
-
 
