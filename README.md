@@ -23,7 +23,7 @@
 🔗 **Feel free to explore more about me** 👉 [Sabarish_R](https://sabarishr.vercel.app/)  
 <br>
 
-## 🚀 My Projects
+# 🚀 My Projects
 
 | Project | Description | Live Demo | Hosted On |
 |---------|------------|-----------|-----------|
@@ -36,7 +36,7 @@
 
 <br>
 
-# 💻 Tech Stack:
+# 💻 Tech Stack
 | **Category**         | **Technologies**                                                                                           |
 |----------------------|------------------------------------------------------------------------------------------------------------|
 | **Problem solving**   | ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)  |
