@@ -109,7 +109,7 @@
   <img src="https://img.icons8.com/color/48/000000/instagram-new.png" style="background: white; border-radius: 50%; padding: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); width: 48px; height: 48px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.15)'" onmouseout="this.style.transform='scale(1)'"/>
 </a>
 
-<a href="mailto:your.email@example.com" target="_blank">
+<a href="mailto:sabarish.it22@bitsathy.ac.in.com" target="_blank">
   <img src="https://img.icons8.com/color/48/000000/gmail.png" style="background: white; border-radius: 50%; padding: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); width: 48px; height: 48px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.15)'" onmouseout="this.style.transform='scale(1)'"/>
 </a>
 
