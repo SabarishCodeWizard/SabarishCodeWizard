@@ -20,9 +20,6 @@
 **I’m currently studying at Bannari Amman Institute Of Technology**  
 <br>
 
-🔗 **Feel free to explore more about me** 👉 [Sabarish_R](https://sabarishr.vercel.app/)  
-<br>
-
 # 🚀 My Projects
 
 | Project | Description | Live Demo | Hosted On |
