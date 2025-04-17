@@ -1,4 +1,15 @@
 
+![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
+
+<div align="center">
+ 
+  
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=6000&pause=100&color=FFA500&center=true&vCenter=true&width=450&lines=Hi+👋,+I'm+Sabarish_R;A+passionate+developer+from+TamilNadu" alt="Typing SVG" />
+</h1>
+
+<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabarishcodewizard&label=Profile%20views&color=0e75b6&style=flat" alt="sabarishcodewizard" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
