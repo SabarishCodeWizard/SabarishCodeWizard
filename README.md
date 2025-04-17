@@ -99,25 +99,30 @@
 <br>
 <br>
 
-![](https://github-profile-trophy.vercel.app/?username=SabarishCodeWizard&theme=algolia&no-frame=true&no-bg=true&margin-w=10&column=9)
+![](https://github-profile-trophy.vercel.app/?username=SabarishCodeWizard&theme=algolia&no-frame=true&no-bg=true&margin-w=10&column=6&title=Stars,Commits,PullRequest,Repositories,Followers,Discussions)
+
 
 
 
 ## 💬 Let's Connect
+<div align="left" style="display: flex; gap: 20px; flex-wrap: wrap; margin-top: 10px;">
 
-<div align="center" style="display: flex; justify-content: center; gap: 25px; flex-wrap: wrap;">
-
-<a href="https://www.linkedin.com/in/sabarish777" target="_blank">
-  <img src="https://img.icons8.com/color/48/000000/linkedin.png" style="background: white; border-radius: 50%; padding: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); width: 48px; height: 48px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.15)'" onmouseout="this.style.transform='scale(1)'"/>
+<!-- LinkedIn -->
+<a href="https://www.linkedin.com/in/sabarish777" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="height: 28px; border-radius: 5px;"/>
 </a>
 
-<a href="https://www.instagram.com/r_sabarish_k/" target="_blank">
-  <img src="https://img.icons8.com/color/48/000000/instagram-new.png" style="background: white; border-radius: 50%; padding: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); width: 48px; height: 48px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.15)'" onmouseout="this.style.transform='scale(1)'"/>
+<!-- Instagram -->
+<a href="https://www.instagram.com/r_sabarish_k/" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="height: 28px; border-radius: 5px;"/>
 </a>
 
-<a href="mailto:sabarish.it22@bitsathy.ac.in.com" target="_blank">
-  <img src="https://img.icons8.com/color/48/000000/gmail.png" style="background: white; border-radius: 50%; padding: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); width: 48px; height: 48px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.15)'" onmouseout="this.style.transform='scale(1)'"/>
+<!-- Email -->
+<a href="mailto:sabarish.it22@bitsathy.ac.in" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="height: 28px; border-radius: 5px;"/>
 </a>
 
 </div>
+
+
 
