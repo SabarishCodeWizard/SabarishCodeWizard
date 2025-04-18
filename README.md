@@ -73,13 +73,10 @@
 
 <table width="100%">
   <tr>
-    <td width="33.3%" align="center">
+    <td width="50%" align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=sabarishcodewizard&show_icons=true&theme=radical&hide_border=true" width="100%" alt="GitHub Stats">
     </td>
-    <td width="33.3%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sabarishcodewizard&layout=compact&theme=radical&hide_border=true" width="100%" alt="Top Languages">
-    </td>
-    <td width="33.3%" align="center">
+    <td width="50%" align="center">
       <img src="https://leetcard.jacoblin.cool/ravik60656?theme=dark&font=Karma&hide_border=true" width="100%" alt="LeetCode Stats">
     </td>
   </tr>
