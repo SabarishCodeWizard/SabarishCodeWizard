@@ -10,7 +10,9 @@
 </h1>
 
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sabarishcodewizard&label=Profile%20views&color=0e75b6&style=flat" alt="sabarishcodewizard" /> </p>
+<p align="left"> 
+  <img src="https://count.getloli.com/get/@sabarishcodewizard?theme=moebooru" alt="sabarishcodewizard" /> 
+</p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <table width="50%">
