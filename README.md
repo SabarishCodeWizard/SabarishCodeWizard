@@ -22,17 +22,16 @@
 
 # 🚀 My Projects
 
-| Project | Description | Live Demo | Hosted On |
-|---------|------------|-----------|-----------|
-| **⚙️ BIT-TooLs** | Utility tools for BIT students | [🌐 Try It Out](https://bittranslator.pythonanywhere.com/) | [PythonAnywhere](https://pythonanywhere.com/) |
-| **✨ College Event Management** | College event management system | [🌐 Try It Out](https://bitsathyevents.vercel.app/) | [Vercel](https://vercel.com/) |
-| **☁️ Weather App** | Real-time weather application | [🌐 Try It Out](https://bitweather-rz0n.onrender.com) | [Render](https://render.com) |
-| **🏫 BIT Website Demo** | College website replication | [🌐 Try It Out](https://sabarishcodewizard.github.io/Bannari-Amman-College-Website-Replicate/) | [GitHub Pages](https://pages.github.com) |
-| **🛒 FixIt E-Commerce** | Modern E-Commerce Storefront | [⚡ Live Store](https://fixitecommerce.vercel.app/) | [Vercel](https://vercel.com) |
-| **🛍️ DPBH Chrome Extension** | Real-time e-commerce product analyzer | [📺 Demo Video](https://youtu.be/3X69VkNuC_8?si=QpKvAdOAtILiIn3N) | Comming Soon |
-| **🏫 BIT Monitoring System** | Facial recognition for BIT student attendance. | [📺 Demo Video](https://drive.google.com/file/d/19DtCOCDNhFMn8IpXLP6hMghvy6_xHZnQ/view) | Comming Soon |
-| **🚙 Car Game with Hand Tracking** | MediaPipe for hand tracking. | [📺 Demo Video](https://drive.google.com/file/d/19DtCOCDNhFMn8IpXLP6hMghvy6_xHZnQ/view) | Comming Soon |
-
+| Project | Description | Tech Stack | Live Demo | Hosted On |
+|---------|------------|-------|-----------|-----------|
+| **⚙️ BIT-TooLs** | Utility tools for BIT students |  Flask | [🌐 Try It Out](https://bittranslator.pythonanywhere.com/) | [PythonAnywhere](https://pythonanywhere.com/) |
+| **✨ College Event Management** | College event management system |  FERN | [🌐 Try It Out](https://bitsathyevents.vercel.app/) | [Vercel](https://vercel.com/) |
+| **☁️ Weather App** | Real-time weather application |  Node.js | [🌐 Try It Out](https://bitweather-rz0n.onrender.com) | [Render](https://render.com) |
+| **🏫 BIT Website Demo** | College website replication |  JX | [🌐 Try It Out](https://sabarishcodewizard.github.io/Bannari-Amman-College-Website-Replicate/) | [GitHub Pages](https://pages.github.com) |
+| **🛒 FixIt E-Commerce** | Modern E-Commerce Storefront |  MERN | [⚡ Live Store](https://fixitecommerce.vercel.app/) | [Vercel](https://vercel.com) |
+| **🛍️ DPBH Chrome Extension** | Real-time e-commerce product analyzer |  JXM | [📺 Demo Video](https://youtu.be/3X69VkNuC_8?si=QpKvAdOAtILiIn3N) | Comming Soon.. |
+| **🏫 BIT Monitoring System** | Facial recognition for BIT student attendance. |  Flask | [📺 Demo Video](https://drive.google.com/file/d/19DtCOCDNhFMn8IpXLP6hMghvy6_xHZnQ/view) | Comming Soon.. |
+| **🚙 Car Game with Hand Tracking** | MediaPipe for hand tracking. |  Python | [📺 Demo Video](https://drive.google.com/file/d/19DtCOCDNhFMn8IpXLP6hMghvy6_xHZnQ/view) | Comming Soon.. |
 <br>
 
 # 💻 Tech Stack
