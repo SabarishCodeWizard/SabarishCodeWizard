@@ -27,7 +27,7 @@
 | Project | Description | Live Demo | Hosted On |
 |---------|------------|-----------|-----------|
 | **🎉 College Event Management** | College event management system | [🚀 Explore Live](https://bitsathyevents.vercel.app/) | [Vercel](https://vercel.com/) |
-| **⚙️ BIT-TooLs** | Utility tools for BIT students | [✨ Try It Out](https://bittranslator.pythonanywhere.com/) | [PythonAnywhere](https://pythonanywhere.com/) |
+| **⚙️ BIT-TooLs** | Utility tools for BIT students | [✨ Try It Out](https://bitsathytools.pythonanywhere.com/) | [PythonAnywhere](https://pythonanywhere.com/) |
 | **⛅ Weather App** | Real-time weather application | [🌦️ Check Weather](https://bitweather-rz0n.onrender.com) | [Render](https://render.com) |
 | **🏛️ BIT Website Demo** | College website replication | [🌍 Visit Site](https://sabarishcodewizard.github.io/Bannari-Amman-College-Website-Replicate/) | [GitHub Pages](https://pages.github.com) |
 | **🛒 FixIt E-Commerce** | Modern E-Commerce Storefront | [🛍️ Shop Now](https://fixitecommerce.vercel.app/) | [Vercel](https://vercel.com) |
