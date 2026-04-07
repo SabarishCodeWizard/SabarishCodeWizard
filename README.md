@@ -54,34 +54,6 @@
 <br>
 
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SabarishCodeWizard&theme=react&area=true&hide_border=true" width="90%" alt="Activity Graph">
-</div>
-
-<table width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=sabarishcodewizard&show_icons=true&theme=radical&hide_border=true" width="100%" alt="GitHub Stats">
-    </td>
-    <td width="50%" align="center">
-      <img src="https://leetcard.jacoblin.cool/ravik60656?theme=dark&font=Karma&hide_border=true" width="100%" alt="LeetCode Stats">
-    </td>
-  </tr>
-</table>
-
-
-
-
-## 🏆 GitHub Trophies
-<br>
-<br>
-
-![](https://github-profile-trophy.vercel.app/?username=SabarishCodeWizard&theme=algolia&no-frame=true&no-bg=true&margin-w=10&column=6&title=Stars,Commits,PullRequest,Repositories,Followers,Discussions)
-
-
-
 
 ## 💬 Let's Connect
 <div align="left" style="display: flex; gap: 20px; flex-wrap: wrap; margin-top: 10px;">
