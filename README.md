@@ -54,9 +54,13 @@
 <br>
 
 
-
 ## 💬 Let's Connect
 <div align="left" style="display: flex; gap: 20px; flex-wrap: wrap; margin-top: 10px;">
+
+<!-- LeetCode -->
+<a href="https://leetcode.com/u/ravik60656/" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" style="height: 28px; border-radius: 5px;"/>
+</a>
 
 <!-- LinkedIn -->
 <a href="https://www.linkedin.com/in/sabarish777" target="_blank" style="text-decoration: none;">
@@ -69,11 +73,9 @@
 </a>
 
 <!-- Email -->
-<a href="mailto:sabarish.it22@bitsathy.ac.in" target="_blank" style="text-decoration: none;">
+<a href="mailto:ravik60656@gmail.com" target="_blank" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="height: 28px; border-radius: 5px;"/>
 </a>
 
 </div>
-
-
 
